@@ -1,7 +1,7 @@
 # Site settings
 title: The MoraL Code
 description: >
-  Dedicated to providing consistent support, guidance, and experience to female Computer Science majors.
+  Dedicated to bringing empathy and passion to the Undergraduate Computer Science Major experience
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://themoralcode.org" # the base hostname & protocol for your site

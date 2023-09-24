@@ -23,7 +23,7 @@ sitemap:
 <div>
 <div class="row">
 <div class="column-left" style="padding-right: 2%;padding-top: 2%">
-<img width="200" height="200" src="{{ '/assets/img/laptop.png' | prepend: site.baseurl }}" class="body-img" alt="Mora presenting at Rose Hack 2019">
+<img width="200" height="200" src="{{ '/assets/img/laptop.png' | prepend: site.baseurl }}" class="body-img" alt="An illustration of a laptop with code on display">
 </div>
 <div class="column-right">
 <h2>The MoraL <strong><em>Code</em></strong></h2>
@@ -35,7 +35,7 @@ sitemap:
 <div>
 <div class="row">
 <div class="column-left" style="padding-right: 2%;padding-top: 2%">
-<img width="200" height="200" src="{{ '/assets/img/empowered.png' | prepend: site.baseurl }}" class="body-img" alt="Mora presenting at Rose Hack 2019">
+<img width="200" height="200" src="{{ '/assets/img/empowered.png' | prepend: site.baseurl }}" class="body-img" alt="An illustration of three women's fists held up in pride">
 </div>
 <div class="column-right">
 <h2>The <strong><em>MoraL Code</em></strong></h2>

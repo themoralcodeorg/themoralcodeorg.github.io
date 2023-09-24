@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The MoraL Code
-subtitle: Dedicated to providing consistent support, guidance, and experience to female Computer Science majors
+subtitle: I'm dedicated to bringing empathy and passion to the Undergraduate Computer Science Major experience. Read on to learn about my philosophy.
 sitemap:
   priority: 0.9
 ---
@@ -27,7 +27,7 @@ sitemap:
 </div>
 <div class="column-right">
 <h2>The MoraL <strong><em>Code</em></strong></h2>
-<p>As Computer Science majors, the basic concepts of object-oriented programming and data structures are learned in the classroom, but what about the skills that are needed in a typical technical interview? Grinding LeetCode and HackerRank problems may help you memorize specific pieces of code, but how do you gain and solidify your technical skills and convey them through your communication skills? Rather than focus purely on grinding coding puzzles, The Moral Code is here as a resource to help you gain the ability to recognize when to use one of the algorithms and data structures you learned in the classroom, as well as master the skill of demonstrating your technical abilities in a 45-minute interview.</p>
+<p>As Computer Science majors, the basic concepts of object-oriented programming and data structures are learned in the classroom, but what about the skills that are needed in a typical technical interview? Grinding LeetCode and HackerRank problems may help you memorize specific pieces of code, but how do you gain and solidify your technical skills and convey them through your communication skills? Rather than focus purely on grinding coding puzzles, I stress the importance of gaining the ability to recognize when to use one of the algorithms and data structures learned in the classroom, as well as mastering the skill of demonstrating technical abilities in the limited timeframe of a 45-minute interview.</p>
 </div>
 </div>
 </div>
@@ -39,7 +39,7 @@ sitemap:
 </div>
 <div class="column-right">
 <h2>The <strong><em>MoraL Code</em></strong></h2>
-<p>Typically referring to how we treat each other, a moral code sets the ground rules for how to live life in a morally sound way. The MoraL Code is dedicated to bringing empathy and passion to code—especially when it comes to supporting female Computer Science majors. Sure, there are plenty of initiatives dedicated to introducing girls to Computer Science while they're in elementary, middle, and high school. But what about support for females beyond the K-12 system? We shouldn't leave these girls to their own devices as they are tasked with the challenge of navigating life as a Computer Science major. I am dedicated to providing consistent support and guidance for female CS majors in the form of comprehensive resources and interview prep that helps them to thrive in the Software Engineering field.</p>
+<p>Typically referring to how we treat each other, a moral code sets the ground rules for how to live life in a morally sound way. My ultimate goal is to bring empathy and passion to Computer Science—especially when it comes to supporting female Computer Science majors. Sure, there are plenty of initiatives dedicated to introducing girls to Computer Science while they're in elementary, middle, and high school, but what about support for females beyond the K-12 system? We shouldn't leave these girls to their own devices as they are tasked with the challenge of navigating life as a Computer Science major. I am dedicated to providing consistent support and guidance for female CS majors in the form of service, outreach, workshops, and volunteering. </p>
 </div>
 </div>
 </div>

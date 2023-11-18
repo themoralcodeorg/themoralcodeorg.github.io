@@ -6,9 +6,10 @@ sitemap:
   priority: 0.9
 ---
 
+<p>Resources for Students: <a href="{{ 'assets/pdf/apis.pdf' | prepend: site.baseurl }}" aria-label="The Beginner’s Guide to APIs" target="_blank">The Beginner’s Guide to APIs</a> | <a href="{{ 'assets/pdf/devEnv.pdf' | prepend: site.baseurl }}" aria-label="The Developer Environment" target="_blank">The Developer Environment</a> | <a href="{{ 'assets/pdf/devWorkflow.pdf' | prepend: site.baseurl }}" aria-label="The Developer Workflow" target="_blank">The Developer Workflow</a> | <a href="{{ 'assets/pdf/sdlc.pdf' | prepend: site.baseurl }}" aria-label="The Software Development Cycle" target="_blank">The Software Development Cycle</a> | <a href="{{ 'assets/pdf/thinkingCritically.pdf' | prepend: site.baseurl }}" aria-label="Thinking Critically as a SWE" target="_blank">Thinking Critically as a SWE</a></p>
+
 <img src="{{ '/assets/img/tmc.png' | prepend: site.baseurl }}" id="about-img">
 
-<p>Resources for Students: <a href="{{ 'assets/pdf/apis.pdf' | prepend: site.baseurl }}" aria-label="The Beginner’s Guide to APIs" target="_blank">The Beginner’s Guide to APIs</a> | <a href="{{ 'assets/pdf/devEnv.pdf' | prepend: site.baseurl }}" aria-label="The Developer Environment" target="_blank">The Developer Environment</a> | <a href="{{ 'assets/pdf/devWorkflow.pdf' | prepend: site.baseurl }}" aria-label="The Developer Workflow" target="_blank">The Developer Workflow</a> | <a href="{{ 'assets/pdf/sdlc.pdf' | prepend: site.baseurl }}" aria-label="The Software Development Cycle" target="_blank">The Software Development Cycle</a> | <a href="{{ 'assets/pdf/thinkingCritically.pdf' | prepend: site.baseurl }}" aria-label="Thinking Critically as a SWE" target="_blank">Thinking Critically as a SWE</a></p>
 
 <div>
 <div class="row">
